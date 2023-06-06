@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+import crowd_navigation_core.MotionGeneration
+if __name__ == '__main__':
+    crowd_navigation_core.MotionGeneration.main()

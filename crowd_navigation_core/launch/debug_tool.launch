@@ -1,0 +1,5 @@
+<launch>
+  <group ns="crowd_navigation">
+      <node pkg="crowd_navigation_core" type="debug_tool" name="debug_tool" output="screen" />
+  </group>
+</launch>

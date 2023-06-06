@@ -1,0 +1,5 @@
+quadprog==0.1.11
+scipy==1.2.3
+numpy==1.16.6
+pygame==2.0.3
+sklearn==0.0.post2
